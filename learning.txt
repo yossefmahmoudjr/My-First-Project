@@ -1,0 +1,1 @@
+One of the key things I’ve learned in this course is how to use Git and GitHub to collaborate with others, track changes, and manage code more effectively.
